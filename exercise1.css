@@ -1,3 +1,10 @@
 .part1{
-    color:red;
+    h2{
+        color:red;
+    }
+    p{
+        background-color: black;
+        color: white;
+    }
+   ;
 }
